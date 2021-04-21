@@ -1,0 +1,46 @@
+a.brand-1 {
+  font-size: 35px;
+}
+
+div.technique-box {
+  padding: 35px;
+  padding-left: 150px;
+  padding-right: 150px;
+  border-bottom:
+}
+
+body {
+  padding: 50px
+}
+
+#tech-head {
+  background-color: rgb(242, 235, 235);
+}
+
+#workshop-head {
+  background-color: rgb(242, 235, 235);
+}
+
+h1.display-3 {
+  color: rgb(235, 137, 52);
+}
+
+p.lead {
+  font-weight: bold;
+  font-size: 35px
+}
+
+p.price-lead {
+  font-weight: normal;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 25px;
+}
+
+div.pricing-card {
+  padding-left: 50px;
+  padding-right: 50px
+}
+/* image.nav-image {
+  align-items: center;
+} */
