@@ -14,14 +14,6 @@ body.main {
   margin-top: 50px
 }
 
-div.intro-course-1 {
-  background-image: url(assets/forehand.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-blend-mode: screen;
-}
-
 .form-signin {
     width: 100%;
     max-width: 330px;
